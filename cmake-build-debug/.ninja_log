@@ -1,3 +1,5 @@
 # ninja log v5
 1	21	1715002686375474043	CMakeFiles/voidptr.dir/library.c.o	c53f5558b854e49b
 21	26	1715002686379473998	libvoidptr.a	c19315d6dd738efc
+1	68	1715078222540962174	CMakeFiles/voidptr.dir/library.c.o	c53f5558b854e49b
+68	75	1715078222548962085	libvoidptr.a	c19315d6dd738efc
